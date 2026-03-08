@@ -1,2 +1,2 @@
 # MurderHub
-idk
+Murder Mystery 2 Script
